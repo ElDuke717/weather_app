@@ -2,7 +2,9 @@
 
 A simple and intuitive weather application built using React. Fetch real-time weather data for any city in the world.
 
-![Weather App Screenshot](path-to-your-screenshot.png)
+<p align='center'>
+<img src="public/weather_app_logo_background.png" alt="Weather App Screenshot" width="250px" height="250px" style="border-radius: 50%;">
+</p>
 
 ## Features
 
@@ -15,7 +17,7 @@ A simple and intuitive weather application built using React. Fetch real-time we
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/ElDuke717/weather_app/weather-app.git
    ```
 2. Navigate into the directory:
    ```bash
@@ -51,5 +53,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ---
-
-**Note:** You should replace placeholders like `path-to-your-screenshot.png` and `https://github.com/yourusername/weather-app.git` with actual paths or URLs. Customize the content based on your app's specific features, technologies, and requirements. If you have added features or functionalities that aren't mentioned in this skeleton, be sure to include them!
