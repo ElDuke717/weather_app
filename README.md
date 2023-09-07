@@ -3,7 +3,7 @@
 A simple and intuitive weather application built using React. Fetch real-time weather data for any city in the world.
 
 <p align='center'>
-<img src="public/weather_app_logo_background.png" alt="Weather App Screenshot" width="250px" height="250px" style="border-radius: 50%;">
+<img src="public/weather_app_logo_clear.png" alt="Weather App Screenshot" width="250px" height="250px" style="border-radius: 50%;">
 </p>
 
 ## Features
