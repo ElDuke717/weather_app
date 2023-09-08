@@ -32,6 +32,17 @@ A simple and intuitive weather application built using React. Fetch real-time we
    npm start
    ```
 
+### You will need an API key from [OpenWeatherMap](https://openweathermap.org/api) and geoDB cities database from [RapidAPI](https://rapidapi.com/wirefreethought/api/geodb-cities) to run this application.
+
+Add a .env file to the root directory of the project and add the following lines to it:
+
+```bash
+REACT_APP_OPENWEATHERMAP_API_KEY=<YOUR_API_KEY>
+REACT_APP_GEO_API_KEY=<YOUR_API_KEY>
+```
+
+I will be updating the app soon to use the google maps api to get the latitude and longitude of the city searched for and then use that to get the weather data from the openweathermap api.
+
 ## Usage
 
 1. Visit `http://localhost:3000` on your browser.
@@ -53,3 +64,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ---
+
+```
+
+```
