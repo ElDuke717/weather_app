@@ -151,3 +151,14 @@
 .daily-details-grid-item label:last-child {
   color: #000000;
 }
+
+.app-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.weather-logo {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
